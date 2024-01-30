@@ -1,1 +1,1 @@
-# e-commerce-in-next.js
+next.js
